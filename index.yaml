@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-08-01T13:57:09.2284498+08:00"
+    description: A Helm chart for Kubernetes
+    digest: 1415a2e7a59fc504b1252017f66937b4d7569f34d37aa23c6b399c6e9296a1a1
+    name: mychart
+    type: application
+    urls:
+    - https://zhaobilly.github.io/billy-helm-repo/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-08-01T13:57:09.2274488+08:00"
